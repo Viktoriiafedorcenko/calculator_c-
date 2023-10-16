@@ -1,0 +1,8 @@
+C:\мдк 01.04\calculator\calculator\bin\Debug\calculator.exe.config
+C:\мдк 01.04\calculator\calculator\bin\Debug\calculator.exe
+C:\мдк 01.04\calculator\calculator\bin\Debug\calculator.pdb
+C:\мдк 01.04\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\мдк 01.04\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\мдк 01.04\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\мдк 01.04\calculator\calculator\obj\Debug\calculator.exe
+C:\мдк 01.04\calculator\calculator\obj\Debug\calculator.pdb
